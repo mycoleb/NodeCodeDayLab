@@ -1,0 +1,15 @@
+{
+  "name": "crash-course",
+  "version": "1.0.0",
+  "type": "module", 
+  "description": "Node Crash Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mycole Brown",
+  "license": "ISC",
+  "dependencies": {
+    "node-stream": "^1.7.0"
+  }
+}
